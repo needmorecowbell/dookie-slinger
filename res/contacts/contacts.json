@@ -1,0 +1,16 @@
+{	
+	"companies":[
+
+		{
+			"company":"company name",
+			"email":"careers@company.com"
+		},
+		{
+			"company":"company name",
+			"email":"careers@company.com"
+		}
+
+
+	]
+}
+
