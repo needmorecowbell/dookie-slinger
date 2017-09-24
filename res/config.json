@@ -1,6 +1,7 @@
 {
-	"user-email":"testing@gmail.com",
-	"user-password":"email-password",
-	"template_dir":"/res/templates/",
-	"contacts_dir":"/res/contacts/"
+	"sender_email":"testing@gmail.com",
+	"sender_password":"email-password",
+	"sender_name":"Adam Musciano",
+	"subject":"Job Interest"
 }
+
