@@ -1,6 +1,6 @@
-Hello {{company}}'s Human Resource Department, 
-My name is {{name}}. After researching your company, I've taken an interest in pursuing a job with {{company}} as a {{job_title}}. Here's my resume, I'm looking forward to hearing back from you!
+Hello {var[company]}'s Human Resource Department, 
+My name is {var[name]}. After researching your company, I've taken an interest in pursuing a job with {var[company]} as a {var[job_title]}. Here's my resume, I'm looking forward to hearing back from you!
 
 Thank you.
 
-{{name}}
+{var[name]}
