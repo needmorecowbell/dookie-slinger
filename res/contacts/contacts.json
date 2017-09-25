@@ -3,14 +3,14 @@
 
 		{
 			"company":"company name",
-			"email":"careers@company.com",
+			"email":"email@gmail.com",
 			"name":"hr director name",
 			"job":"web developer",
 			"subject":"job interest"
 		},
 		{
 			"company":"company2",
-			"email":"careers@company2.com",
+			"email":"email2@gmail.com",
 			"name":"lacey",
 			"job":"web developer",
 			"subject":"job interest"
